@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Calculadora de IMC",
+    "imageSrc": "projects/Calculadora_imc.png",
+    "description": "Esta é uma aplicação simples de calculadora de Índice de Massa Corporal (IMC) implementada em HTML, CSS e JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://devdiegolima.github.io/Projeto_calculadora_imc/",
+    "source": "https://github.com/DEVDiegoLima/Projeto_calculadora_imc"
+  },
+  {
+    "title": "Gerador de QR Code ",
+    "imageSrc": "projects/Gerador_Qr_code.png",
+    "description": "Este é um projeto simples que consiste em um gerador de QR Code. O usuário pode inserir uma URL ou texto.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://devdiegolima.github.io/Generation_QR_Code/",
+    "source": "https://github.com/DEVDiegoLima/Generation_QR_Code"
+  },
+  {
+    "title": "Clone do iPhone 13 Pro",
+    "imageSrc": "projects/Projeto_iphone.png",
+    "description": "Este é um clone simples da página inicial do iPhone 13 Pro, desenvolvido com HTML, CSS e JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://devdiegolima.github.io/Projeto_Clone_iPhone_13_Pro/",
+    "source": "https://github.com/DEVDiegoLima/Projeto_Clone_iPhone_13_Pro"
+  }
+]
