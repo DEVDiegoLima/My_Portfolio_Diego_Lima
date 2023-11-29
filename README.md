@@ -15,13 +15,19 @@ Confira a demonstração ao vivo [aqui](https://portfoliodevdiegolima.netlify.ap
    git clone https://github.com/seu-usuario/portfolio-react.git
 
 3. Navegue até o diretório do projeto:
-    cd portfolio-react
+4.  ```bash
+      cd portfolio-react
+ 
 
-4. Instale as dependências:
-    npm install
+5. Instale as dependências:
+6.  ```bash
+       npm install
+   
 
-5. Inicie o servidor de desenvolvimento:
-    npm start
+7. Inicie o servidor de desenvolvimento:
+8. ```bash
+       npm start
+    
 
 ## Personalização
 
